@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=DRS4-TOP.SchDoc
+Record=SheetSymbol|SourceDocument=DRS4-TOP.SchDoc|Designator=3.0 V,2.5V DISTRIBUTION|SchDesignator=3.0 V,2.5V DISTRIBUTION|FileName=3_0V_2_5V_DIST.SchDoc|SymbolType=Normal|RawFileName=3_0V_2_5V_DIST.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=DRS4-TOP.SchDoc|Designator=3.3V DISTRIBUTION|SchDesignator=3.3V DISTRIBUTION|FileName=3_3V_DIST.SchDoc|SymbolType=Normal|RawFileName=3_3V_DIST.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
