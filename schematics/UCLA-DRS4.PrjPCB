@@ -89,7 +89,7 @@ GenerateClassCluster=0
 DocumentUniqueId=DSODGTSA
 
 [Document4]
-DocumentPath=3_0V_2_5V_DIST.SchDoc
+DocumentPath=2V5_DIST.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
